@@ -4,8 +4,8 @@ Creating a Linter Plugin
 - Fork this repo to bootstrap your new linter.
 - Clone it into Packages.
 - Change a linter.py.
-- Update the README and replace `__linter__` placeholders.
-- Update messages/install.txt and replace `__linter__` placeholders.
+- Update the README and replace `rst` placeholders.
+- Update messages/install.txt and replace `rst` placeholders.
 - Open a PR in our [package_control repo](https://github.com/SublimeLinter/package_control_channel) to make it available to others.
 
 Additional documentation can be found at [sublimelinter.com](http://sublimelinter.com).
